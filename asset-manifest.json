@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jirayus-kard/hw8-3/static/css/main.4851e9fc.chunk.css",
-    "main.js": "/jirayus-kard/hw8-3/static/js/main.cfeaf547.chunk.js",
-    "main.js.map": "/jirayus-kard/hw8-3/static/js/main.cfeaf547.chunk.js.map",
+    "main.js": "/jirayus-kard/hw8-3/static/js/main.e29c9f89.chunk.js",
+    "main.js.map": "/jirayus-kard/hw8-3/static/js/main.e29c9f89.chunk.js.map",
     "runtime-main.js": "/jirayus-kard/hw8-3/static/js/runtime-main.ae4e13b9.js",
     "runtime-main.js.map": "/jirayus-kard/hw8-3/static/js/runtime-main.ae4e13b9.js.map",
     "static/js/2.88088f43.chunk.js": "/jirayus-kard/hw8-3/static/js/2.88088f43.chunk.js",
     "static/js/2.88088f43.chunk.js.map": "/jirayus-kard/hw8-3/static/js/2.88088f43.chunk.js.map",
     "index.html": "/jirayus-kard/hw8-3/index.html",
-    "precache-manifest.99984c8a27a901deb20cff2106f539cc.js": "/jirayus-kard/hw8-3/precache-manifest.99984c8a27a901deb20cff2106f539cc.js",
+    "precache-manifest.541c97b17c731b1947fd326b14b88c5a.js": "/jirayus-kard/hw8-3/precache-manifest.541c97b17c731b1947fd326b14b88c5a.js",
     "service-worker.js": "/jirayus-kard/hw8-3/service-worker.js",
     "static/css/main.4851e9fc.chunk.css.map": "/jirayus-kard/hw8-3/static/css/main.4851e9fc.chunk.css.map",
     "static/js/2.88088f43.chunk.js.LICENSE.txt": "/jirayus-kard/hw8-3/static/js/2.88088f43.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ae4e13b9.js",
     "static/js/2.88088f43.chunk.js",
     "static/css/main.4851e9fc.chunk.css",
-    "static/js/main.cfeaf547.chunk.js"
+    "static/js/main.e29c9f89.chunk.js"
   ]
 }
