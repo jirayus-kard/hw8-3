@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jirayus-kard/hw8-2/static/css/main.4851e9fc.chunk.css",
-    "main.js": "/jirayus-kard/hw8-2/static/js/main.8864af14.chunk.js",
-    "main.js.map": "/jirayus-kard/hw8-2/static/js/main.8864af14.chunk.js.map",
-    "runtime-main.js": "/jirayus-kard/hw8-2/static/js/runtime-main.a6e52c17.js",
-    "runtime-main.js.map": "/jirayus-kard/hw8-2/static/js/runtime-main.a6e52c17.js.map",
-    "static/js/2.a135969c.chunk.js": "/jirayus-kard/hw8-2/static/js/2.a135969c.chunk.js",
-    "static/js/2.a135969c.chunk.js.map": "/jirayus-kard/hw8-2/static/js/2.a135969c.chunk.js.map",
-    "index.html": "/jirayus-kard/hw8-2/index.html",
-    "precache-manifest.edd8693adca19253e7e1c4b96ac8c4cc.js": "/jirayus-kard/hw8-2/precache-manifest.edd8693adca19253e7e1c4b96ac8c4cc.js",
-    "service-worker.js": "/jirayus-kard/hw8-2/service-worker.js",
-    "static/css/main.4851e9fc.chunk.css.map": "/jirayus-kard/hw8-2/static/css/main.4851e9fc.chunk.css.map",
-    "static/js/2.a135969c.chunk.js.LICENSE.txt": "/jirayus-kard/hw8-2/static/js/2.a135969c.chunk.js.LICENSE.txt"
+    "main.css": "/jirayus-kard/hw8-3/static/css/main.4851e9fc.chunk.css",
+    "main.js": "/jirayus-kard/hw8-3/static/js/main.cfeaf547.chunk.js",
+    "main.js.map": "/jirayus-kard/hw8-3/static/js/main.cfeaf547.chunk.js.map",
+    "runtime-main.js": "/jirayus-kard/hw8-3/static/js/runtime-main.ae4e13b9.js",
+    "runtime-main.js.map": "/jirayus-kard/hw8-3/static/js/runtime-main.ae4e13b9.js.map",
+    "static/js/2.88088f43.chunk.js": "/jirayus-kard/hw8-3/static/js/2.88088f43.chunk.js",
+    "static/js/2.88088f43.chunk.js.map": "/jirayus-kard/hw8-3/static/js/2.88088f43.chunk.js.map",
+    "index.html": "/jirayus-kard/hw8-3/index.html",
+    "precache-manifest.99984c8a27a901deb20cff2106f539cc.js": "/jirayus-kard/hw8-3/precache-manifest.99984c8a27a901deb20cff2106f539cc.js",
+    "service-worker.js": "/jirayus-kard/hw8-3/service-worker.js",
+    "static/css/main.4851e9fc.chunk.css.map": "/jirayus-kard/hw8-3/static/css/main.4851e9fc.chunk.css.map",
+    "static/js/2.88088f43.chunk.js.LICENSE.txt": "/jirayus-kard/hw8-3/static/js/2.88088f43.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6e52c17.js",
-    "static/js/2.a135969c.chunk.js",
+    "static/js/runtime-main.ae4e13b9.js",
+    "static/js/2.88088f43.chunk.js",
     "static/css/main.4851e9fc.chunk.css",
-    "static/js/main.8864af14.chunk.js"
+    "static/js/main.cfeaf547.chunk.js"
   ]
 }
