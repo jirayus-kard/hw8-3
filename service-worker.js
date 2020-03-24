@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jirayus-kard/hw8-2/precache-manifest.0e0dfe1ab28f73ef302ade4ae9c29f3f.js"
+  "/jirayus-kard/hw8-2/precache-manifest.1eadf202f1e79504160e7a8d020ebdf4.js"
 );
 
 self.addEventListener('message', (event) => {
